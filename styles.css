@@ -108,7 +108,7 @@
   }
   
   /* Container around content */
-  .container {
+  .container1 {
     padding: 10px 40px;
     position: relative;
     background-color: inherit;
@@ -117,7 +117,7 @@
   }
   
   /* The circles on the timeline */
-  .container::after {
+  .container1::after {
     content: '';
     position: absolute;
     width: 25px;
