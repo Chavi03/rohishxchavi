@@ -113,6 +113,7 @@
     position: relative;
     background-color: inherit;
     width: 50%;
+    max-width:600px;
   }
   
   /* The circles on the timeline */
