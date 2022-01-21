@@ -132,13 +132,13 @@
   
   /* Place the container to the left */
   .left {
-    left: -19.8vw;
+    left: -0.3vw;
     top:10vh;
   }
   
   /* Place the container to the right */
   .right {
-    left: 19.8vw;
+    left: 39.35vw;
     top: 8vh;
   }
   
